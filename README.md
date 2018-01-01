@@ -8,5 +8,7 @@ Launch AWS EC2 instance using web interface
 Create a simple script, using your language of choice, that creates an AWS EC2 instance and outputs its launch time. The script should:
 * Utilize the AWS API
 * Accept the arguments: AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, INSTANCE_TYPE
+
 Demo: https://mughees-ilyas.github.io/AWS-EC2/ec2.html
+
 code: https://github.com/mughees-Ilyas/AWS-EC2
