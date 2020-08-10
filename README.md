@@ -1,5 +1,5 @@
 # AWS-EC2
-Launch AWS EC2 instance using web interface
+Launch AWS EC2 instance using web interface.
 ## Notes
 * I am not using Sass, minifier or any other bundler to keep the build simple.
 * all the code is in ECMA Script 5 (ES5) standard so all the browsers can understand it natively.
